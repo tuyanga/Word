@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NewWord</string>
+    <string name="title">картны апп</string>
+
+    <string name="cancel">БУЦАХ</string>
+    <string name="save">ХАДГАЛАХ</string>
+    <string name="set1">Гадаад үгийг ил харуулах</string>
+    <string name="set2">Монгол үгийг ил харуулах</string>
+    <string name="set3">Хоёуланг нь ил харуулах</string>
+
+
+    <string name="gadaadug">Гадаад үг</string>
+    <string name="mongolug">Монгол үг</string>
+    <string name="insert">ОРУУЛАХ</string>
+    <string name="noinsert">БОЛИХ</string>
+
+    <string name="add">НЭМЭХ</string>
+    <string name="update">ШИНЭЧЛЭХ</string>
+    <string name="delete">УСТГАХ</string>
+    <string name="previous">ӨМНӨХ</string>
+    <string name="next">ДАРАА</string>
+</resources>
